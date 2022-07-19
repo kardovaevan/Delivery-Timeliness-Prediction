@@ -20,10 +20,6 @@ The data contains the following information:
 11. Weight in gms: It is the weight in grams.
 12. Reached on time: It is the target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time.
 
-## Preparation
-1. Python
-2. Library : pandas, seaborn, matplotlib, dalex, scikitplot
-
 ## Data Cleansing
 The data does not contain major issues (No missing values and duplicated rows)
 
