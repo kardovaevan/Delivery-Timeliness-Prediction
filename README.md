@@ -38,7 +38,7 @@ Based on the analysis, Gradient Boosting appears to be the model with the best A
 ## Feature Importance 
 Using dalex to find the feature importance it turned out that discount offered is the most important variable followed by weight of the goods and cost of the product
 
-## Recomendations 
+## Recommendations 
 1. Discounts are the most influential variable on the timeliness of delivery, highly recommend that future campaign is to give more below 10% discount compared to others
 2. there is an interesting pattern on the weight of the products. where many items tend to arrive on time if the weight is below 2 kilograms and between 4-6 kilograms. It would be better if the company is also able to deliver goods on time for other weights.
 3. Customers are more likely to reach CS when they buy products at relatively expensive prices. It is expected that the company and partners can improve the tracking system. So that customers can check the delivery process in real time
